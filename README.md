@@ -4,7 +4,7 @@ p4_Containernet _tcp_udp
 basic l2 switch add tcp udp support
 
 
-git clone [p4_Containernet _tcp_udp](https://github.com/ANTLab-polimi/FOP4)https://github.com/ANTLab-polimi/FOP4
+git clone (https://github.com/ANTLab-polimi/FOP4)https://github.com/ANTLab-polimi/FOP4
 
 cd FOP4/P4_examples
 
@@ -23,7 +23,9 @@ pingall
 xterm d1 d2
 
 in d1 : nc -l 9999
+
 in d2 : nc 192.168.1.202 9999
- tcp or udp all work
+
+tcp or udp all work
  
 
