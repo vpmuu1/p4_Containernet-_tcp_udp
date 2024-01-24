@@ -28,4 +28,20 @@ in d2 : nc 192.168.1.202 9999
 
 tcp or udp all work
  
+ref:
 
+https://github.com/jafingerhut/p4-guide/tree/master
+
+https://github.com/chenxiang2019/learn-P4-by-examples
+
+https://github.com/nsg-ethz/p4-learning/blob/master/examples/ip_forwarding/forwarding.p4
+
+https://github.com/alksarioglou/p4_network_programming
+
+https://github.com/ANTLab-polimi/FOP4/blob/master/P4_examples/load_balancer_hash/load_balancer_hash_p4.py
+
+https://github.com/harshgondaliya/burstradar/blob/master/burstradar.p4
+
+https://github.com/nsg-ethz/p4-utils/
+
+https://nsg-ethz.github.io/p4-utils/usage.html
